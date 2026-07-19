@@ -21,7 +21,7 @@
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/note1-ai/macos-client/releases/download/v0.2.0/note1-0.1.0.dmg" length="25950357" type="application/octet-stream" sparkle:edSignature="WZ85TdUBrdSoxaRodIghGq9vL7jf2hzkKcDxWy9uXfTHnHD5Y3xbN3wb+spIH2ZyJ754dxL/FhF1zFQ8gQQaDA=="/>
+            <enclosure url="https://github.com/note1-ai/macos-client/releases/download/v0.1.0/note1-0.1.0.dmg" length="25950357" type="application/octet-stream" sparkle:edSignature="WZ85TdUBrdSoxaRodIghGq9vL7jf2hzkKcDxWy9uXfTHnHD5Y3xbN3wb+spIH2ZyJ754dxL/FhF1zFQ8gQQaDA=="/>
         </item>
     </channel>
 </rss>
