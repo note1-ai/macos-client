@@ -3,6 +3,22 @@
     <channel>
         <title>note1</title>
         <item>
+            <title>0.13.6</title>
+            <pubDate>Thu, 06 Aug 2026 06:01:03 +0400</pubDate>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>0.13.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/note1-ai/macos-client/releases/download/v0.13.6/note1-0.13.6.dmg" length="28626781" type="application/octet-stream" sparkle:edSignature="OSZefnDj0FlfnOL1oVE5tqF7e7kjPkM2fMsy5ir6XeN18PRDAfQX/5VnprD1bdqLiSjIllwmA+pQPXskZvUrBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/note1-ai/macos-client/releases/download/v0.13.6/note123-22.delta" sparkle:deltaFrom="22" length="796698" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="BWOHFdekUV5ktkQPKZaCsB3WIkIlwZQJQP2oBSHwJDVyWTSqQdRqly+dzGc/18n0km8/9tujFf5EpH81GPSoBA=="/>
+                <enclosure url="https://github.com/note1-ai/macos-client/releases/download/v0.13.6/note123-21.delta" sparkle:deltaFrom="21" length="840978" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YFgNEnjcAeE2rUd+nE/OePx2CwDiEdm3uKzlqLPMycnTfXTgABNM7/dRBBn83mqUbEZRhD7Y7eN60iTnTSMJBw=="/>
+                <enclosure url="https://github.com/note1-ai/macos-client/releases/download/v0.13.6/note123-20.delta" sparkle:deltaFrom="20" length="1352530" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UrZWMTckJj+4GZxgroOyFBxKKP41m35J1GSWkweHvUjUcbicknTGQdNYsENmiLTWYumnGDulA9hEmcQrNj8PBg=="/>
+                <enclosure url="https://github.com/note1-ai/macos-client/releases/download/v0.13.6/note123-19.delta" sparkle:deltaFrom="19" length="1706702" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="EKXNlDO2nN3CkNx044aswP5w1Sbpr4dPXD1GC6vmExzwN31naroepZjTMjvS2T+BSccmLNZ7Jt6rYRtsFbEVDQ=="/>
+                <enclosure url="https://github.com/note1-ai/macos-client/releases/download/v0.13.6/note123-18.delta" sparkle:deltaFrom="18" length="1716306" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="csNbQv56x7PoB4/ajEgXxFkjjijheLysckwMtZtnlLX8EBZvV1ZJJChsRKrIcEHIG2UHFehJJECNZOP38evvDQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.13.5</title>
             <pubDate>Mon, 03 Aug 2026 21:21:47 +0400</pubDate>
             <sparkle:version>22</sparkle:version>
@@ -32,22 +48,6 @@
                 <enclosure url="https://github.com/note1-ai/macos-client/releases/download/v0.13.4/note121-18.delta" sparkle:deltaFrom="18" length="1675622" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="uqMZ7TraKXcXKtLyp4SHx4kS7q/8yqqyAmUfH08oM0B1tG7f3uzLiOhPsQZksvXcjYwvN4REB0XIAyBVZpSlBQ=="/>
                 <enclosure url="https://github.com/note1-ai/macos-client/releases/download/v0.13.4/note121-17.delta" sparkle:deltaFrom="17" length="1684338" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="AtfS0zatgGk0+iMGOp+36JB6pwLN2rAVoMGvjGMmTJ8QLS6TqzPs5XpqGR4q4GQd0DJFTMG/He8cSZj8ndrWCQ=="/>
                 <enclosure url="https://github.com/note1-ai/macos-client/releases/download/v0.13.4/note121-16.delta" sparkle:deltaFrom="16" length="1766670" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zx2BrOvesn25oE5qIS4sk8178ERXptgtQUZIJ1AtQ32S78M95VoltQO0Eafrcde8TIudUE2ehgahRH0krEtIAg=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.13.3</title>
-            <pubDate>Sun, 02 Aug 2026 22:23:56 +0400</pubDate>
-            <sparkle:version>20</sparkle:version>
-            <sparkle:shortVersionString>0.13.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/note1-ai/macos-client/releases/download/v0.13.3/note1-0.13.3.dmg" length="28255121" type="application/octet-stream" sparkle:edSignature="hZg7HInb5abrb/Vozkob6s7lvHAwbZh11ivIL6BEoJ3PquMDqASLHIRmw3voaZDvl0oyzBCQzmchfQe3qBDvDw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/note1-ai/macos-client/releases/download/v0.13.3/note120-19.delta" sparkle:deltaFrom="19" length="1229466" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="4HhhjJgvpUCZ+663Dt+9qkKOxaqFDbCVv+KLTqyXyp5gCVoQE6LVh9GB0/LFrkA84aNGqJRyosp55ciFvrzgCw=="/>
-                <enclosure url="https://github.com/note1-ai/macos-client/releases/download/v0.13.3/note120-18.delta" sparkle:deltaFrom="18" length="1227958" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="O6X0B37bOJkfYl9TQybVKTZcMErIxieGIGc8BUiu5zwD6lUeDIJ9tp+s43mNRh4KgBa6ZB4x9aLbKABmB6KdBA=="/>
-                <enclosure url="https://github.com/note1-ai/macos-client/releases/download/v0.13.3/note120-17.delta" sparkle:deltaFrom="17" length="1261114" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YU4BfQVY+/h+wnD1j8LI2jcWufRrWgWxlA1Zw3hFbMLib0s1/Ki38UCLT+qWpnR1QlFM1yjNGj3Kx6wuwf2tAg=="/>
-                <enclosure url="https://github.com/note1-ai/macos-client/releases/download/v0.13.3/note120-16.delta" sparkle:deltaFrom="16" length="1380170" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="V+EvDxZk9BKiYt5yck3NCZRlN/z/4OJimpcF2axxLZrhkSsdOJ+cspmloj7NoQxVl42HTx5kvpqeksL6WnJbCA=="/>
-                <enclosure url="https://github.com/note1-ai/macos-client/releases/download/v0.13.3/note120-15.delta" sparkle:deltaFrom="15" length="1458286" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Kx2KmfW4vZbCY5lrmoKD9zYdUHXNa4Iwy9HLWdNLWidMR0uLVOb0rF2XTrK/UHec3rJYlQdvfz9wZV91i+5PCQ=="/>
             </sparkle:deltas>
         </item>
     </channel>
